@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yuda Hasibuan</h1>
 <h3 align="center">A passionate FullStack Developer from Aceh</h3>
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/f53601133f236d1cb167ac19f05a3d60.gif?alt=media&token=afb44142-fbea-4b65-a4bf-04848fee344d">
+<img align="right" alt="Coding" width="300" src="https://firebasestorage.googleapis.com/v0/b/yudahasibuann23.appspot.com/o/f53601133f236d1cb167ac19f05a3d60.gif?alt=media&token=afb44142-fbea-4b65-a4bf-04848fee344d">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
